@@ -1,0 +1,17 @@
+{
+  "id": "unit-3",
+  "slug": "unit-3-functions",
+  "title": "Functions & Code Organisation",
+  "description": "Writing functions worth keeping, the DRY principle, and building reusable modules.",
+  "learning_objectives": [
+    "Identify when a block of code should become a function",
+    "Write functions with parameters, default values, and return values",
+    "Refactor a procedural script into a modular structure"
+  ],
+  "original_video": "V3 \u2014 Writing Functions Worth Keeping",
+  "curated_videos": [
+    "Corey Schafer: Python Tutorial \u2014 Functions",
+    "Corey Schafer: Python Tutorial \u2014 Modules and Imports"
+  ],
+  "codespace_repo": "unit-3-functions"
+}
