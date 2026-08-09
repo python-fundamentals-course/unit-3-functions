@@ -8,10 +8,39 @@
     "Write functions with parameters, default values, and return values",
     "Refactor a procedural script into a modular structure"
   ],
-  "original_video": "V3 \u2014 Writing Functions Worth Keeping",
-  "curated_videos": [
-    "Corey Schafer: Python Tutorial \u2014 Functions",
-    "Corey Schafer: Python Tutorial \u2014 Modules and Imports"
+  "codespace_repo": "unit-3-functions",
+  "videos": [
+    {
+      "name": "Judgment in Function Creation",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1216757217",
+      "duration_min": 15
+    },
+    {
+      "name": "Identifying Code Refactoring Signals",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1216757299",
+      "duration_min": 2
+    },
+    {
+      "name": "Refactoring for Clarity and Reusability",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1216757359",
+      "duration_min": 4
+    },
+    {
+      "name": "Understanding Python Scope and Function Modules",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1216757408",
+      "duration_min": 4
+    }
   ],
-  "codespace_repo": "unit-3-functions"
+  "curated_videos": [
+    {
+      "name": "C3 \u2014 Functions",
+      "type": "youtube",
+      "url": "https://youtu.be/9Os0o3wzS_I",
+      "duration_min": 12
+    }
+  ]
 }
